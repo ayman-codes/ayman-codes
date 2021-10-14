@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Ayman "@ayman-codes"
-- 👀 I’m interested in so many things xD. But my goal is Data science
+- 👀 Working on my way to become a data scientist.
 - 🌱 I’m currently learning advanced machine learning & Business analytics 
 - 💞️ I would love to work with someone on a shared effort to create a machine learning algorithm.
 - 📫 contact me if you've any questions. ayman.ab.work@outlook.com
