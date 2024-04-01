@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed Ayman "@ayman-codes"
+- 👋 Hi, I’m Mohammed Obidou "@Mohammed-Obidou"
 - 👀 Working on my way to become a data scientist.
 - 🌱 I’m currently learning advanced machine learning & Business analytics 
 - 💞️ I would love to work with someone on a shared effort to create a machine learning algorithm.
